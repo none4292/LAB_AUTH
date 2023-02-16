@@ -44,7 +44,7 @@
 
 ### styling
 - Use bootstrap CSS library or similar for styling the website . 
-- Use some images to represent the clinic building and facilities as a gallery.
+- Use some images to represent the hospital building and facilities as a gallery and display some general info.
 
 
 ### Bonus
